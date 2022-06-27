@@ -1,9 +1,9 @@
 @font-face {
-    src: url(/Task2_Ronalds_Zaļkalns/assets/fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    src: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/fonts/Oswald/Oswald-VariableFont_wght.ttf);
     font-family: 'Oswald';
 }
 @font-face {
-    src: url(/Task2_Ronalds_Zaļkalns/assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
     font-family: 'Montserrat';
 }
 
@@ -38,7 +38,7 @@ nav::after {
     right: 0%;
     height: 130px;
     width: 100%;
-    background: url(/Task2_Ronalds_Zaļkalns/assets/img/rip.svg)
+    background: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/img/rip.svg)
     bottom center;
     background-repeat: repeat-x;
     
@@ -336,7 +336,7 @@ nav .logo {
     right: 0%;
     height: 130px;
     width: 100%;
-    background: url(/Task2_Ronalds_Zaļkalns/assets/img/rip.svg)
+    background: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/img/rip.svg)
     bottom center;
     background-repeat: repeat-x;
     
@@ -388,7 +388,7 @@ nav .logo {
     right: 0%;
     height: 150px;
     width: 100%;
-    background: url(/Task2_Ronalds_Zaļkalns/assets/img/rip.svg)
+    background: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/img/rip.svg)
     bottom center;
     background-repeat: repeat-x;
     background-size: auto 50px;
@@ -467,7 +467,7 @@ nav .logo {
     right: 0%;
     height: 150px;
     width: 100%;
-    background: url(/Task2_Ronalds_Zaļkalns/assets/img/rip.svg)
+    background: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/img/rip.svg)
     bottom center;
     background-repeat: repeat-x;
     background-size: auto 50px;
@@ -657,7 +657,7 @@ form {
     right: 0%;
     height: 150px;
     width: 100%;
-    background: url(/Task2_Ronalds_Zaļkalns/assets/img/ripyellow.svg)
+    background: url(https://ronaldszz.github.io/Task2_Ronalds_Zalkalns_Web/assets/img/ripyellow.svg)
     bottom center;
     background-repeat: repeat-x;
     background-size: auto 50px;
